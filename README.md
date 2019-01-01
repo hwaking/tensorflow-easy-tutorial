@@ -5,7 +5,7 @@ This project contains the common demo of how to using tf  in nlp and also contai
 <h2>
     
 ```diff
-+ my main idea is “the simpler the better” and everyone can understand.
+my main idea is “the simpler the better” and everyone can understand.
 
 ```
 
@@ -18,7 +18,10 @@ This project contains the common demo of how to using tf  in nlp and also contai
     [tensorflow+RNN的使用讲解.ipynb](https://github.com/Springzhen/tensorflow-easy-tutorial/blob/master/tensorflow%2BRNN%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AE%B2%E8%A7%A3.ipynb) show us the different between dynamic rnn and static rnn and also gives the detail of  how to transfor batch of sentences index with embedding matrix , explain the tensor shape change procedure. 
   
 - **NER 实体识别**
+    
     [NER.ipynb](https://github.com/Springzhen/tensorflow-easy-tutorial/blob/master/NER.ipynb) shows a easy instance of how to use ner with tensorflow and it is easy for redesign. 
 
 
-- **Other projects continus adding ...... **
+- **Other projects**
+    
+    continus adding ......
