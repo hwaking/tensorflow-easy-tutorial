@@ -1,11 +1,12 @@
 Tensorflow easy tutorials
 =========================
 
+
 This project contains the common demo of how to using tf  in nlp and also contains some basic operation
 <h2>
     
 ```diff
-my main idea is “the simpler the better” and everyone can understand.
++ my main idea is “the simpler the better” and everyone can understand.
 
 ```
 
@@ -24,4 +25,4 @@ my main idea is “the simpler the better” and everyone can understand.
 
 - **Other projects**
     
-    continus adding ......
+    continuous updating ......
